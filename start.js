@@ -63,7 +63,7 @@ const botname = process.env.BOTNAME || 'DREADED-MD';
 const packname = process.env.STICKER_PACKNAME;
     const autoviewstatus = process.env.AUTOVIEW_STATUS || 'TRUE';
 const autobio = process.env.AUTOBIO || 'TRUE';
-const autodlstatus = process.env.AUTODOWNLOAD_STATUS || 'TRUE';
+const autodlstatus = process.env.AUTODOWNLOAD_STATUS || 'FALSE';
 const session = process.env.SESSION;
 
 
